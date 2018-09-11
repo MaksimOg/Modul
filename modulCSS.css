@@ -1,0 +1,54 @@
+﻿
+    
+	
+	#banner{
+    border-bottom: 3px solid black;
+   }
+    #but{
+	 height: 20px;
+	 width: auto;
+	}
+ 
+	button{
+	 height:30px;
+	 width: 30px;
+	}
+	
+	#buttons,#form{
+	display:inline-block;
+    margin-left: 75%;
+	margin-top: 20px;
+   }
+   
+   .target1{
+    background-color:#f2eded;
+	border-bottom: 2px solid #e2e2e2
+   }
+   .target2{
+    background-color:#ffffff;
+	border-bottom: 2px solid #e2e2e2
+   }
+   .target3{
+    display: inline-block;
+	width: 15%;
+	height: 40px;
+	margin:0px 0px -3px 0px;
+	text-align: center;
+   }
+   
+   .target4{
+    display: inline-block;
+	width: 25px;
+	height: 20px;
+	margin:0px 0px -3px 0px;
+	text-align: center;
+   
+   batton{
+    display: inline-block;
+    width: 40px;
+	height :20px;
+	border-radius: 2px;
+	border: 2px solid black;
+	text-align: center;
+   }
+   
